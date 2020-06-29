@@ -19,3 +19,5 @@ Esta página incluirá informações sobre a disciplina de Métodos em Biologia 
 | 13             | 03-Sep | Diversidade filogenética alfa                                      | Marcos Carlucci |
 | 14             | 10-Sep | Diversidade filogenética beta                                      | Marcos Carlucci |
 | 15             | 15-Sep | Exame final                                                        |                 |
+
+As aulas consistirão de aulas expositivas (síncronas) em horários específicos, seguida de exercícios a serem realizados independentemente.
