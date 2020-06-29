@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Métodos em Biologia Comparada (BIO019)
 
-You can use the [editor on GitHub](https://github.com/biocompufpr/biocomp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Esta página incluirá informações sobre a disciplina de Métodos em Biologia Comparada, turma de 2020 (período especial).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/biocompufpr/biocomp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Número da aula | Data | Conteúdo                                                                                                                                                                  | Professor       |
+|----------------|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| 1              | 14/7 | Introdução à Biologia Comparada                                                                                                                                           | Márcio Pie      |
+| 2              | 16/7 | Exploração de dados de Biologia Comparada em programa estatístico (medidas de tendência central e dispersão, histogramas, diagramas de dispersão, boxplots, violin plots) | Márcio Pie      |
+| 3              | 21/7 | Testes de hipóteses e estimativa de parâmetros; regressão e correlação.                                                                                                   | Márcio Pie      |
+| 4              | 23/7 | Introdução a métodos filogenéticos comparativos                                                                                                                           | Márcio Pie      |
+| 5              | 28/7 | Diversificação de linhagens                                                                                                                                               | Márcio Pie      |
+| 6              | 30/7 | Diversificação fenotípica                                                                                                                                                 | Márcio Pie      |
+| 7              | 04/8 | Coevolução                                                                                                                                                                | Márcio Pie      |
+| 8              | 18/8 | Evolução correlacionada                                                                                                                                                   | Marcos Carlucci |
+| 9              | 20/8 | Conservação filogenética de nicho; Sinal filogenético multivariado                                                                                                        | Marcos Carlucci |
+| 10             | 25/8 | Sinal filogenético univariado                                                                                                                                             | Marcos Carlucci |
+| 11             | 27/8 | Estimativa de caracteres ancestrais                                                                                                                                       | Marcos Carlucci |
+| 12             | 01/9 | Questões históricas em biogeografia e ecologia                                                                                                                            | Marcos Carlucci |
+| 13             | 03/9 | Diversidade filogenética alfa                                                                                                                                             | Marcos Carlucci |
+| 14             | 10/9 | Diversidade filogenética beta                                                                                                                                             | Marcos Carlucci |
+| 15             | 15/9 | Exame final                                                                                                                                                               |                 |
